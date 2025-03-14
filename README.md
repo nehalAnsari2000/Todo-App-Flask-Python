@@ -18,3 +18,5 @@ A simple Todo application built using Flask. This app allows users to add, updat
 - **Render**: For deploying the application.
 
 
+Deployment
+The application is deployed on Render and can be accessed at Todo App on Render.
