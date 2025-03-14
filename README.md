@@ -17,6 +17,6 @@ A simple Todo application built using Flask. This app allows users to add, updat
 - **HTML/CSS**: For the front-end structure and styling.
 - **Render**: For deploying the application.
 
+## Deployment
 
-Deployment
-The application is deployed on Render and can be accessed at Todo App on Render.
+The application is deployed on **Render** and can be accessed at [Todo App on Render](https://todo-app-nehalansari.onrender.com/).
